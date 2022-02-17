@@ -1,7 +1,7 @@
 import { publicKey } from "@project-serum/anchor/dist/cjs/utils";
 import React, { useEffect, useState } from "react";
 import "./App.css";
-import twitterLogo from "./assets/twitter-logo.svg";
+import twitterLogo from "./images/twitter-logo.svg";
 import CandyMachine from "./CandyMachine";
 
 // Constants
