@@ -106,6 +106,19 @@ const App = () => {
             target="_blank"
             rel="noreferrer"
           >{`@${TWITTER_HANDLE}`}</a>
+          <img
+            alt="GitHub Logo"
+            className="github-logo"
+            src="github-logo.png"
+          />
+          <a
+            className="footer-text"
+            href="https://github.com/supabase-community/nftree-garden"
+            target="_blank"
+            rel="noreferrer"
+          >
+            supabase-community
+          </a>
         </div>
       </div>
     </div>
